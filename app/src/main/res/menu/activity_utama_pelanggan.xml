@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/beranda"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Beranda" />
+        <item
+            android:id="@+id/kategori"
+            android:icon="@drawable/ic_layers_black_24dp"
+            android:title="Kategori" />
+        <item
+            android:id="@+id/pesanan"
+            android:icon="@drawable/ic_content_paste_black_24dp"
+            android:title="Pesanan" />
+        <item
+            android:id="@+id/akun"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Akun" />
+    </group>
+
+    <item android:title="More Option">
+        <menu>
+            <item
+                android:id="@+id/tentang"
+                android:icon="@drawable/ic_priority_high_black_24dp"
+                android:title="Tentang" />
+            <item
+                android:id="@+id/keluar"
+                android:icon="@drawable/ic_keyboard_tab_black_24dp"
+                android:title="Keluar" />
+        </menu>
+    </item>
+
+</menu>

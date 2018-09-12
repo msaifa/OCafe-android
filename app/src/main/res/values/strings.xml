@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">O\' Cafe</string>
+    <string name="typeDate">dd-MM-yyyy</string>
+    <string name="title_activity__utama">Activity_Utama</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_utama_pelanggan">ActivityUtamaPelanggan</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="Esspresso">Esspresso</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_akun">Akun</string>
+    <string name="title_activity_utama_pelayan">ActivityUtamaPelayan</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Administrasi">
+        <menu>
+            <item
+                android:id="@+id/nav_jenis_barang"
+                android:icon="@drawable/ic_assignment_black_24dp"
+                android:title="Laporan Jenis Barang" />
+            <item
+                android:id="@+id/nav_barang"
+                android:icon="@drawable/ic_free_breakfast_black_24dp"
+                android:title="Laporan Barang" />
+            <item
+                android:id="@+id/nav_pegawai"
+                android:icon="@drawable/ic_assignment_ind_black_24dp"
+                android:title="Laporan Pegawai" />
+            <item
+                android:id="@+id/nav_pelanggan"
+                android:icon="@drawable/ic_group_black_24dp"
+                android:title="Laporan Pelanggan" />
+            <item
+                android:id="@+id/nav_pembayaran"
+                android:icon="@drawable/ic_attach_money_black_24dp"
+                android:title="Laporan Pembayaran" />
+            <item
+                android:id="@+id/nav_transaksi"
+                android:icon="@drawable/ic_style_black_24dp"
+                android:title="Laporan Transaksi" />
+        </menu>
+    </item>
+
+    <item android:title="Pengaturan Profil">
+        <menu>
+            <item
+                android:id="@+id/nav_pengaturan"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="Pengaturan" />
+            <item
+                android:id="@+id/nav_keluar"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Keluar" />
+        </menu>
+    </item>
+
+</menu>

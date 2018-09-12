@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.komputerkit.ocafe">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ActivitySplash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityLogin" />
+        <activity
+            android:name=".ActivityUtamaAdmin"
+            android:label="@string/title_activity__utama"
+            android:theme="@style/AppTheme" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name=".ActivityUtamaPelanggan"
+            android:label="@string/title_activity_utama_pelanggan"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".ActivityUtamaPelayan"
+            android:label="@string/title_activity_utama_pelayan"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>

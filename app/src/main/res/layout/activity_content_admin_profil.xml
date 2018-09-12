@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.wua.smendaukom.prowarkop.Content_admin_profil">
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/LembarEdit"
+        android:layout_width="0dp"
+        android:layout_height="2700dp"
+        android:background="#dedede"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/LabelTerms"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="16dp"
+            android:background="@color/putih"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/BtnEditProfilAdministrator"
+            app:layout_constraintVertical_bias="0.0">
+
+            <TextView
+                android:id="@+id/Terms"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:text="Jika Anda ingin menjadi karyawan teladan namun tidak tahu caranya, jangan bersedih atau putus asa. Anda bisa menjadi karyawan teladan di mana pun Anda bekerja. Untuk mewujudkan hal tersebut, coba 12 kiat berikut:
+\n \n
+1. Berperilakulah Secara Profesional
+Ini adalah tempat Anda bekerja. Baik di pemerintahan, menjalankan bisnis, di perusahaan multinasional, atau di bagian pelayanan masyarakat, Anda selalu dituntut untuk bekerja secara profesional.
+
+Mengobrol boleh-boleh saja, apalagi dengan budaya keramahan orang Indonesia, jika tidak mengobrol Anda akan dianggap kaku dan sombong. Namun tentunya ada perbedaan antara mengobrol untuk menyeimbangkan ruwetnya pekerjaan dengan mengobrol ngalor-ngidul yang pada akhirnya justru membuang banyak waktu.
+
+Bersikaplah tegas jika ada rekan kerja yang mengajak berbicara masalah pribadi di jam kerja. Ingat bahwa Anda direkrut di perusahaan dengan tugas utama melakukan pekerjaan Anda.
+\n \n
+2. Belajarlah Menerima Kritikan
+Pernah bekerja dengan bos yang perfeksionis dan tidak pernah merasa bersalah untuk terus-menerus mengkritik pekerjaan Anda? Sabar dahulu, karena untuk menjadi karyawan teladan berarti Anda harus belajar menerima kritikan dari orang lain.
+
+Daripada menggerutu kesal dengan kritikan pedas, coba renungi sejenak apa kira-kira yang bos harapkan dari Anda, di mana letak kekurangan Anda dan bagaimana cara memperbaikinya.
+
+Jika suatu saat Anda merasa sangat marah dengan kritikan yang rasanya tidak sepadan dengan hasil pekerjaan, cobalah tenangkan diri sejenak. Tunggu hingga pikiran Anda tidak terganggu emosi dan bicarakan baik-baik masalahnya serta cari solusi bagaimana cara memperbaikinya.
+\n \n
+3. Selesaikan Pekerjaan Melebihi Ekspektasi
+Pelajari bagaimana Anda dapat menyelesaikan pekerjaan Anda, kemudian lakukan dengan sebaik-baiknya dan selalu usahakan untuk melebihi ekspektasi sesulit apa pun pekerjaan Anda, dan berapapun pembayaran yang disetujui. Kerjakan hingga selesai jauh sebelum deadline, atau kerjakan dengan kualitas yang lebih baik.
+
+Dengan kemampuan yang handal dalam mengerjakan suatu pekerjaan, loyalitas terhadap perusahaan dan pekerjaan-pekerjaan yang melebihi ekspektasi, tentunya sangat mudah bagi Anda untuk mendapatkan promosi ke jenjang karier yang lebih tinggi.
+\n \n
+4. Jalin Hubungan Baik dengan Rekan Kerja
+Jangan pernah meremehkan rekan kerja Anda, mereka juga merupakan orang-orang terbaik yang ahli di bidangnya masing-masing. Perlakukan setiap orang dengan sopan dan hormat. Walau terdengar sederhana, namun efek hal tersebut kepada Anda cukup besar untuk menjadi karawan teladan.
+
+Hindari untuk bergaul dengan rekan kerja yang selalu malas bekerja, berpikiran negatif, membicarakan hal buruk tentang orang lain dan berperilaku tidak hormat, karena teman yang Anda pilih pun akan menentukan reputasi Anda.
+\n \n
+5. Pertahankan Reputasi dan Kinerja Anda
+Selalu datang lebih awal atau tepat waktu ke tempat kerja, melakukan pekerjaan sebaik mungkin sehingga Anda memiliki track record yang baik di perusahaan tempat bekerja. Sangat penting untuk mempertahankan reputasi dan kinerja tersebut supaya Anda menjadi pegawai teladan.
+
+Jika diperhatikan lebih lanjut, kebanyakan karyawan yang kinerjanya tidak terlalu baik dimulai dari sesederhana absensi yang banyak bolongya, tenggat waktu yang tidak tercapai, serta perilaku yang tidak menunjukkan profesionalisme dan banyaknya customer yang melakukan komplain.
+\n \n
+6. Jadilah Bagian dari Solusi
+Hentikan berpikir mengenai apa-apa saja yang salah, alih-alih gunakan energi Anda untuk memikirkan solusi dari tiap permasalahan yang ada. Sikap yang positif seperti ini sangat menarik bagi para supervisor.
+
+Saat Anda melakukan rapat dengan pimpinan, ajukan paling tidak satu saran untuk solusi sebuah permasalahan. Walapun nantinya saran Anda tidak digunakan, Anda sudah berhasil membawa diri sebagai seorang problem-solver, bukan complainer.
+\n \n
+7. Hindari Bergosip, Maksimalkan Kerja
+Bos Anda tidak membayar Anda untuk bergosip bersama rekan kerja. Walaupun sebetulnya Anda ingin membangun hubungan yang baik dengan rekan kerja, dan itu memang perlu, ada baiknya untuk membatasi diri bergosip di saat jam kerja. Tolak dengan halus jika Anda merasa pembicaraan dengan rekan kerja sudah terlalu lama.
+
+Hati-hati pula jika bos Anda melihat Anda sedang mengobrol di jam kerja. Usahakan alihkan percakapan sejenak untuk membahas hal-hal yang kira-kira berhubungan dengan pekerjaan. Paling tidak jangan buat bos Anda berpikir Anda adalah tukang gosip di kantor.
+\n \n
+8. Aktiflah untuk Menyelesaikan Proyek
+Jangan terlalu memikirkan tentang siapa yang akan dipuji tentang sebuah proyek yang selesai dengan baik. Bos Anda lebih cerdas dari yang Anda kira dan akan mengetahui siapa-siapa yang benar-benar aktif dalam sebuah project dan siapa yang menjadi freerider alias tidak banyak bekerja.
+
+Jadilah seorang team player. Dengan menjadi aktif Anda juga dapat memilih di bagian mana Anda ingin bekeja. Sebaliknya, jika Anda pasif, orang lain akan memilihkan Anda pekerjaan yang bisa jadi kurang tepat bagi Anda.
+\n \n
+9. Jauhkan Smartphone Saat Bekerja
+Tentu komunikasi merupakan hal yang penting dalam bekerja. Maksudnya menjauhkan smartphone di sini adalah supaya Anda tidak terlalu banyak melakukan hal-hal di luar pekerjaan yang bisa diakses melalui smartphone, seperti membuka media sosial, bermain game, browsing yang tidak berhubungan dengan pekerjaan, dan sebagainya.
+
+Mulai dari sekarang, simpan telepon genggam Anda di laci dan batasi panggilan yang dapat masuk selama Anda bekerja sehingga waktu Anda tidak banyak terbuang selain untuk pekerjaan.
+\n \n
+10. Jadilah Mentor Bagi Karyawan Junior
+Seorang teladan adalah orang yang dapat menjadi contoh bagi karyawan lainnya. Dengan adanya karyawan baru atau junior  yang masih asing dengan dunia kerja, Anda dapat mengambil bagian dengan menjadi mentor yang memberikan pengarahan dan pelatihan, sehingga nantinya pun tidak heran jika Anda dinobatkan sebagai karyawan teladan.
+
+Ingat-ingat lagi bagaimana rasanya sewaktu pertama kali Anda masuk ke perusahaan dan hal-hal apa yang kiranya patut dilakukan oleh seorang senior.
+
+Jika Anda tidak yakin junior Anda mengerti perintahnya, tanyakan secara personal apakah mereka membutuhkan bantuan. Ingat juga, berhati-hatilah dengan ucapan Anda dengan junior, jangan sampai terlihat Anda frustasi atau menunjukkan konflik interpersonal.
+\n \n
+11. Tanyakan Tujuan Pekerjaan pada Supervisor
+Dengan menanyakan tujuan suatu pekerjaan, Anda akan dapat lebih memahami ekspektasi dari para atasan untuk Anda kerjakan. Hal ini akan membuat Anda menonjol sekitar 95% dibandingkan dengan karyawan-karyawan lainnya. Tanyalah dengan serius, dan pastikan Anda mendapatkan gambaran yang jelas mengenai segala tujuan.
+\n \n
+12. Perhatikan Bahasa Tubuh
+Karena bahasa tubuh tidak pernah berbohong, selalu amati bahasa tubuh Anda dan orang lain. Untuk terlihat berwibawa, Anda perlu berbicara dengan kondisi tubuh berdiri, dengan kaki nyaman, bahu tertarik sedikit ke belakang, serta dagu sedikit diangkat. Hal ini menambah kepercayaan diri serta menimbulkan kesan yang baik dari bahasa tubuh.
+
+Begitu pula saat duduk, duduklah dengan punggung tegak dan tangan terlihat, sehingga Anda lebih terlihat profesional dan memiliki wibawa.
+
+\n \n
+Itulah 12 kiat yang dapat membantu Anda menjadi karyawan teladan. Bukan hanya dinilai dari profesionalitas kerja saja, lebih dari itu karyawan teladan juga lebih dinilai dari perilakunya dalam berinteraksi dengan orang lain."
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
+        </android.support.constraint.ConstraintLayout>
+
+        <Button
+            android:id="@+id/BtnEditProfilAdministrator"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="4dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/putih"
+            android:text="EDIT PROFIL"
+            android:onClick="Masukupdateprofil"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/TampilIdAdminProfil"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/TampilIdAdminProfil"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="1dp"
+            android:background="@color/putih"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/TampilEmailProfil"
+            app:layout_constraintVertical_bias="0.0">
+
+            <TextView
+                android:id="@+id/LabelIDAdminProfil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="8dp"
+                android:text="ID Admin"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/IDAdminProfilInfo"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/IDAdminProfilInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="8dp"
+                android:text="000000001"
+                android:textColor="@color/hitam"
+                android:textSize="15dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
+        </android.support.constraint.ConstraintLayout>
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/TampilEmailProfil"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="1dp"
+            android:background="@color/putih"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/TampilKontakProfil"
+            app:layout_constraintVertical_bias="0.0">
+
+            <TextView
+                android:id="@+id/LabelEmaiProfil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="8dp"
+                android:text="Email Profil"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/EmailProfilAdminInfo"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/EmailProfilAdminInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="8dp"
+                android:text="wahyuricosyahputra@gmail.com"
+                android:textColor="@color/hitam"
+                android:textSize="15dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
+        </android.support.constraint.ConstraintLayout>
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/TampilKontakProfil"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="1dp"
+            android:background="@color/putih"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/TampilNamaProfil"
+            app:layout_constraintVertical_bias="0.0">
+
+            <TextView
+                android:id="@+id/LabelKontakProfil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="8dp"
+                android:text="Nomor Telepon"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/KontakProfilAdminInfo"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/KontakProfilAdminInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="8dp"
+                android:text="081953521543"
+                android:textColor="@color/hitam"
+                android:textSize="15dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
+        </android.support.constraint.ConstraintLayout>
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/TampilNamaProfil"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="8dp"
+            android:background="@color/putih"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/TextTampilan"
+            app:layout_constraintVertical_bias="0.0">
+
+            <TextView
+                android:id="@+id/LabelNamaProfil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="8dp"
+                android:text="Nama Profil"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/NamaProfilAdminInfo"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/NamaProfilAdminInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="8dp"
+                android:text="Wahyu Firman Syahputra Sulaiman"
+                android:textColor="#000000"
+                android:textSize="15dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.100000024" />
+        </android.support.constraint.ConstraintLayout>
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/TextTampilan"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/putih"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0">
+
+            <TextView
+                android:id="@+id/TextInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="8dp"
+                android:text="Info Profil"
+                android:textColor="@color/colorPrimaryDark"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </android.support.constraint.ConstraintLayout>
+    </android.support.constraint.ConstraintLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#544329</color>
+    <color name="colorPrimaryDark">#544329</color>
+    <color name="colorAccent">#544329</color>
+
+    <color name="putih">#ffffff</color>
+    <color name="hitam">#000000</color>
+    <color name="dasar">#544329</color>
+    <color name="button">#DBB88E</color>
+    <color name="abu">#fafafa</color>
+    <color name="abutulisan">#7e7e7e</color>
+    <color name="harga">#ffa600</color>
+    <color name="colorHarga">#0c9f66</color>
+    <color name="colorSecond">#dbb88e</color>
+    <color name="biru">#4e54fd</color>
+    <color name="kuning">#544329</color>
+    <color name="kuningtua">#a99f19</color>
+    <color name="orange">#fa940c</color>
+    <color name="coklat">#bf6820</color>
+    <color name="graylight">#d2d2d2</color>
+</resources>
